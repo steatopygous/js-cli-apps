@@ -1,0 +1,16 @@
+{
+  "name": "js-cli-apps",
+  "version": "1.0.0",
+  "description": "A set of scripts to be used as command line tools",
+  "main": "",
+  "scripts": {
+  },
+  "author": "Harry Ohlsen",
+  "license": "ISC",
+  "engines": {
+    "node": "20.17.0"
+  },
+  "dependencies": {
+    "sunrise-sunset-js": "^2.2.1"
+  }
+}
